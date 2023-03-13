@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "fabric": "^5.3.0"
+  }
+}
